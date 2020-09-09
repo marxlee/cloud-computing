@@ -1,2 +1,8 @@
-# cloud-computing
-linux-部署, 云服务
+# Cloud Computing
+
+## 安装vmware, CentOS7
+
+
+
+
+

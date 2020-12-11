@@ -1,7 +1,7 @@
 # Cloud Computing
 
-## 安装vmware, CentOS7
-dir: doc   
+### Linux
+   目录位置:  [/doc/linux](./doc/linux) 
 
 
 
